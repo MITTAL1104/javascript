@@ -66,8 +66,8 @@ const {courseInstructor:Instr} = course
 
 console.log(Instr);
 
-{
-    "name":"Raghav",
-    "coursename":"Javascript",
-    "price":"free"
-}
+// {
+//     "name":"Raghav",
+//     "coursename":"Javascript",
+//     "price":"free"
+// }
